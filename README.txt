@@ -3,22 +3,14 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-Just a fun little profile/card-style template I whipped up during a break between major
-projects. Minimal, responsive, and powered by Skel + Sass. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
 Credits:
 
-	Demo Images:
+	Theme:
+		AJ aj@lkn.io | @ajlkn
+
+	Image:
 		Unsplash (unsplash.com)
+		Marcelo Quinan (http://levelofambiguity.tumblr.com/)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
