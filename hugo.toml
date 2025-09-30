@@ -10,6 +10,9 @@ title = 'Pablo Rivero | Tech Lead'
 name = "github"
 url = "https://github.com/priverop"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 ############################## Content ################################
 [Languages.en]
