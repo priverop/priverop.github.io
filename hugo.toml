@@ -35,9 +35,9 @@ url = "https://github.com/priverop"
     url = '/posts/'
     weight = 20
   [[Languages.en.menu.main]]
-    pageRef="about"
-    name = 'About'
-    url = '/about/'
+    pageRef="cv"
+    name = 'CV'
+    url = '/cv/'
     weight = 30
 
 [Languages.en.params]
@@ -46,7 +46,7 @@ url = "https://github.com/priverop"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Web developer with leadership skills"
+  description = "Personal portfolio of Pablo Rivero, Tech Lead from Madrid."
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -68,7 +68,7 @@ url = "https://github.com/priverop"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Pablo Rivero | Tech Lead"
   name = "Pablo Rivero"
-  description = "Web developer with leadership skills."
+  description = "Minimalist mindset — reduce, automate, and focus."
 
 # Allow to override webmanifest options
 [Languages.en.params.webmanifest]
