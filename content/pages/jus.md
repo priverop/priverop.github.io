@@ -47,3 +47,5 @@ In 2024, after being laid off from my position at Astara, I took a personal year
 I completed the last major reverse-engineering challenges and assembled a new small team of English and Japanese translators.
 
 My goal for 2026 is to finalize the toolset and focus entirely on translation and polishing.
+
+You can check the current project progress [here](https://tradusquare.es/proyectos/jump-ultimate-stars/).
