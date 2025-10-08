@@ -33,11 +33,16 @@ url = "https://github.com/priverop"
     pageRef="posts"
     name = 'Posts'
     url = '/posts/'
-    weight = 20
+    weight = 40
   [[Languages.en.menu.main]]
     pageRef="cv"
     name = 'CV'
     url = '/cv/'
+    weight = 30
+  [[Languages.en.menu.main]]
+    pageRef="jus"
+    name = 'JUS'
+    url = '/jus/'
     weight = 30
 
 [Languages.en.params]

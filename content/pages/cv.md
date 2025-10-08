@@ -17,7 +17,7 @@ Proactive and passionate. I love No Code, DevOps, and software quality (yes, I d
 
 When I was 5 I hacked a Mickey Mouse computer game, so I could play without the parental control. Nobody knew how, me? neither.
 
-At 12 I learned Photoshop and started making videogame posters for my friends. Then I learned HTML and CSS for my first online portfolio, but I realized how much time it took to update the site, so I learned PHP to automate the work. I created a template that allowed me to make quick websites for my friends and family.
+At 14 I learned Photoshop and started making videogame posters for my friends. Then I learned HTML and CSS for my first online portfolio, but I realized how much time it took to update the site, so I learned PHP to automate the work. I created a template that allowed me to make quick websites for my friends and family.
 
 At 18 two friends and I created a small business called N3Networks to make websites for small companies. I had to stop during college because of the workload. But I learned a valuable lesson: clients rarely know what they want.
 
