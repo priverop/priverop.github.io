@@ -21,7 +21,7 @@ This meant a lot of questioning and too much time spent on trial-and-error situa
 
 After finishing my 2025 goals for the [JUS project](/pages/jus/), I created a "getting started guide" for Texim. This tutorial will teach you the basics of the library through a practical example of a custom image format.
 
-Check it out [here](https://code.pleonex.dev/SceneGate/Texim/docs/getting-started/tutorial.html).
+Check it out [here](https://docs.pleonex.dev/SceneGate/Texim/docs/getting-started/tutorial.html).
 
 ## Next steps
 
