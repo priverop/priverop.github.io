@@ -7,7 +7,7 @@ toc: true
 
 ## Who am I?
 
-I'm Pablo, a Tech Lead with over 10 years of experiencie leading and building projects.
+I'm Pablo, a Tech Lead with over 10 years of experience leading and building projects.
 
 I’m a generalist by nature with a minimalist mindset. I focus on removing waste, automation and prioritizing what's really important. 
 
