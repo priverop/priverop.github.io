@@ -10,6 +10,11 @@ title = 'Pablo Rivero | Tech Lead'
 name = "github"
 url = "https://github.com/priverop"
 
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/priverop"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
