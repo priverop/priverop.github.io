@@ -44,11 +44,6 @@ url = "https://linkedin.com/in/priverop"
     name = 'CV'
     url = '/cv/'
     weight = 30
-  [[Languages.en.menu.main]]
-    pageRef="jus"
-    name = 'JUS'
-    url = '/jus/'
-    weight = 30
 
 [Languages.en.params]
   sitename = "Pablo Rivero | Software Engineer"
