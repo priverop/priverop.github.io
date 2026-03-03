@@ -19,6 +19,13 @@ I thrive in cross-functional environments where I can bridge tech, product, and 
 
 Check [my bio](/posts/bio/) for more info!
 
+## 💻 Technical Stack
+
+_Tools and Technologies that I've used._
+
+- **Back End:** Ruby on Rails, Sinatra, PostgreSQL, MySQL, Sidekiq, RSpec.
+- **Front End:** Vue (+Nuxt), React (+Next / Vite), TypeScript, Tailwind.
+- **Cloud & DevOps:** AWS, Terraform, Docker, Github Actions, Gitlab CI/CD, Vercel.
 
 ## My 10 laws
 
@@ -46,11 +53,3 @@ Architecture design, team culture and good practices, code quality, testing, per
 ### Product & Project Management
 
 Product-driven mindset, lean and agile practices (I've worked with Scrum for many years), prioritization by value, KPI/OKRs.
-
-## 💻 Technical Stack
-
-_Tools and Technologies that I've used._
-
-- **Back End:** Ruby on Rails, Sinatra, PostgreSQL, MySQL, Sidekiq, RSpec.
-- **Front End:** Vue (+Nuxt), React (+Next / Vite), TypeScript, Tailwind.
-- **Cloud & DevOps:** AWS, Terraform, Docker, Github Actions, Gitlab CI/CD, Vercel.
