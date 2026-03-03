@@ -5,16 +5,17 @@ author: Pablo Rivero
 toc: true
 ---
 
-Download my CV in PDF format [ here](/cv_en.pdf).
+You can download my CV in PDF format:
+- [Backend Engineer](/pablorivero_backend_en.pdf).
+- [Full Stack Engineer](/pablorivero_fullstack_en.pdf).
+- [Tech Lead](/pablorivero_techlead_en.pdf).
 
 
 ## Who am I?
 
-I'm Pablo, a Tech Lead with over 10 years of experience leading and building projects.
+I'm Pablo, a Software Engineer with 10+ years of experience leading teams and building products. 5+ years working with Ruby in production. 
 
-I’m a generalist by nature with a minimalist mindset. I focus on removing waste, automation and prioritizing what's really important. 
-
-Proactive and passionate. I love No Code, DevOps, and software quality (yes, I do enjoy writing tests).
+I thrive in cross-functional environments where I can bridge tech, product, and business while staying hands-on. Strong focus on software quality, lean practices, and mentoring.
 
 Check [my bio](/posts/bio/) for more info!
 
@@ -50,24 +51,6 @@ Product-driven mindset, lean and agile practices (I've worked with Scrum for man
 
 _Tools and Technologies that I've used._
 
-### Backend Engineering
-
-Ruby (On Rails, Sinatra), C#, Node.js (Express), PHP (Laravel), Java (Spring Boot).
-PostgreSQL, MySQL.
-REST APIs, Swagger.
-Docker.
-
-### Frontend Engineering
-
-React, Vue, AngularJS. 
-Vite, NextJS, NuxtJS.
-Prismic, Wordpress, Hugo, Jekyll.
-Performance optimization, testing (Jest, Cypress).
-
-### DevOps & Cloud
-AWS (managed and serverless), Vercel.
-Github Actions, Gitlab CI/CD.
-Security & monitoring.
-
-### Automation & Marketing
-No Code tools (Zappier, n8n, carrd), SEO (g4a, screamingfrog, console tools), CRM integrations (Clientify, Hubspot), web performance...
+- **Back End:** Ruby on Rails, Sinatra, PostgreSQL, MySQL, Sidekiq, RSpec.
+- **Front End:** Vue (+Nuxt), React (+Next / Vite), TypeScript, Tailwind.
+- **Cloud & DevOps:** AWS, Terraform, Docker, Github Actions, Gitlab CI/CD, Vercel.
